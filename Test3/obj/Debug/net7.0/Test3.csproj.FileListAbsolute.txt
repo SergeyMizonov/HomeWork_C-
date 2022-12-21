@@ -1,0 +1,15 @@
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\bin\Debug\net7.0\Test3.exe
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\bin\Debug\net7.0\Test3.deps.json
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\bin\Debug\net7.0\Test3.runtimeconfig.json
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\bin\Debug\net7.0\Test3.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\bin\Debug\net7.0\Test3.pdb
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\obj\Debug\net7.0\Test3.csproj.AssemblyReference.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\obj\Debug\net7.0\Test3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\obj\Debug\net7.0\Test3.AssemblyInfoInputs.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\obj\Debug\net7.0\Test3.AssemblyInfo.cs
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\obj\Debug\net7.0\Test3.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\obj\Debug\net7.0\Test3.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\obj\Debug\net7.0\refint\Test3.dll
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\obj\Debug\net7.0\Test3.pdb
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\obj\Debug\net7.0\Test3.genruntimeconfig.cache
+D:\Рабочий стол\GeekBrains\Знакомство с языками программирования (семинары) C#\HomeWork1\Test3\obj\Debug\net7.0\ref\Test3.dll
